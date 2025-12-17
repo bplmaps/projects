@@ -909,7 +909,7 @@ Expecting `+Et.join(", ")+", got '"+(this.terminals_[fr]||fr)+"'":br="Parse erro
 
     <a
       class="block underline font-semibold"
-      href="https://app01.cityofboston.gov/parcelviewer/?center=${r.lng},${r.lat}&level=18.5"
+      href="https://app01.cityofboston.gov/parcelviewer/?center=${r.lng},${r.lat}&level=18"
     >
       Open in Parcel Viewer
     </a>
